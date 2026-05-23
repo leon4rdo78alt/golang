@@ -1,4 +1,4 @@
-package version
+package version 1.26.4
 
 import (
 	"fmt"
